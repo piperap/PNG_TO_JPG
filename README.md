@@ -5,8 +5,11 @@ This is a simple script to convert an image from PNG format to JPG format using 
 How to use
 Make sure you have the Pillow library installed. If not, install it using pip:
 
-Copy code
+in your terminal:
+
 pip install pillow
+
+
 To convert an image, simply replace 'input.png' and 'output.jpg' in the script with your input and output file names respectively.
 
 Here is the Python script:
